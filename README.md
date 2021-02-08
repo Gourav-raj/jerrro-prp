@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# React Resume
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a react web app which reads the you info from resume.json and then creat your resume.
+# ScreenShot
+![Alt text](/mywesite.png?raw=true "Optional Title")
+
+
+
 
 ## Available Scripts
 
