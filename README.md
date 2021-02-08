@@ -2,7 +2,7 @@
 
 This is a react web app which reads the you info from resume.json and then creat your resume.
 # ScreenShot
-![Alt text](/mywesite.png?raw=true "Optional Title")
+![Alt text](/mysite.png?raw=true "Optional Title")
 
 
 
