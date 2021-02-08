@@ -1,0 +1,336 @@
+{
+  "main": {
+    "name":"Gourav Raj",
+    "occupation":"Cse Student",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "bio":["I am currently persuing Btech from MANIT ,BHOPAL CSE",
+    " This my personal blog website and this site is still under construction:p",
+    " Recently I'm working on my skill , learning new technologies like Nextjs , React, Selenium etc ",
+    "  ",
+    " Beside this I love competetive Programming<3."
+    ],
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "gouravrj9654@gmail.com",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"",
+      "city":"Sagar",
+      "state":"MP",
+      "zip": "470004"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+           "url": "https://www.facebook.com/profile.php?id=100008423983942",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/Gouravr69252265?s=09",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url": "https://www.linkedin.com/in/gourav-raj-957534188/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"google-plus",
+        "url":"",
+        "className":"fa fa-youtube"
+      },
+      {
+        "name":"instagram",
+        "url": "https://www.instagram.com/gourav.1.8/"  ,
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Gourav-raj",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are some of the techs on which I have worked on",
+    "education":[
+      {
+        "school":"NIT Bhopal",
+        "degree":"BTech CSE",
+        "area":"Bhopal India",
+        "gpa":"8.81",
+        "graduated":"April 2018 - April 2022",
+        "description":""
+      },
+      {
+        "school": "St. Mary's Convent ",
+            "area": "Sagar",
+            "degree": "12th",
+            "graduated": "March 2017 - March 2018",
+            "gpa": "93.47%",
+            "summary": "12th",
+        "description":""
+      },
+      {
+        "school": "St. Mary's Convent ",
+            "area": "Sagar",
+            "degree": "10th",
+            "graduated": "March 2015 - March 2016",
+            "gpa": "10",
+            "summary": "12th",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Free Lancer",
+        "title":"Software Developer ",
+        "years":"Competetive Programming",
+        "description":[ "Curently Learning more about Nextjs",
+        "  ,BlockChain, AI",
+        " and obiously Competetive Programming" ]
+      },
+      {
+        "company":"Project Aura",
+        "title":"Software Developer",
+        "years":"Start-up",
+        "description":"Working on building a coding platform ..."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name": "C++",
+        "level": "80%",
+        "keywords": [
+            "Competetive programming using cpp on codechef and codeforces",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+        ]
+    },
+    {
+        "name": "Data structures and algo",
+        "level": "90%",
+        "keywords": [
+            "Completed my course of dsa from coding-ninjas",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+        ]
+    },
+    {
+        "name": "HTML CSS",
+        "level": "80%",
+        "keywords": [
+            "Had made several websites using html , css",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+        ]
+    },
+    {
+        "name": "REACT",
+        "level": "70%",
+        "keywords": [
+            "This web site is build in reactjs and json :p",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+        ]
+    }, 
+    {
+        "name": "AI",
+        "level": "50%",
+        "keywords": [
+            "Had made self driving car and a droom game using AI",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+        ]
+    },
+    {
+        "name": "Python",
+        "level": "80%",
+        "keywords": [
+            "Had made self driving car and a droom game using AI",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+        ]
+    },
+     {
+        "name": "JAVA",
+        "level": "40%",
+        "keywords": [
+            "Have done android development using java ",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+        ]
+    },
+    {
+        "name": "Selenium",
+        "level": "90%",
+        "keywords": [
+            "Made several Bots ",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+        ]
+    }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "name": "Amazon-Clone",
+        "publisher": "<PUBLISHER>",
+        "category": "<Reactjs>",
+        "releaseDate": "<RELEASE_DATE>",
+        "website": "https://gourav-raj.github.io/Amazon-Clone_gr/",
+        "summary": "Web App using Reactjs",
+        "image": {
+            "modal": "i4.jpeg",
+            "thumb": "i5.jpeg"
+        },
+        "keywords": [
+            "React-js",
+            "Authentication",
+            "Firebase"
+        ]
+    },
+    {
+        "name": "Insta-Clone",
+        "publisher": "<PUBLISHER>",
+        "category": "<Reactjs>",
+        "releaseDate": "<RELEASE_DATE>",
+        "website": "https://instagram-clone96.web.app/",
+        "summary": "Web App using Reactjs",
+        "image": {
+            "modal": "i4.jpeg",
+            "thumb": "i5.jpeg"
+        },
+        "keywords": [
+            "React-js",
+            "Authentication",
+            "Firebase"
+        ]
+    },
+    {
+        "name": "Ms-Teams Bot",
+        "publisher": "<PUBLISHER>",
+        "category": "<Selenium>",
+        "releaseDate": "<RELEASE_DATE>",
+        "website": "https://www.youtube.com/watch?v=4XhlDlQYRC4",
+        "summary": "This Bot automate the process of joining classes",
+        "image": {
+            "modal": "i4.jpeg",
+            "thumb": "i5.jpeg"
+        },
+        "keywords": [
+            "Selenium",
+            "Python",
+            "Automation"
+        ]
+    },
+    {
+        "name": "Self Driving Car",
+        "publisher": "<PUBLISHER>",
+        "category": "<Artificial Intelligence>",
+        "releaseDate": "<RELEASE_DATE>",
+        "website": "https://github.com/Gourav-raj/AI-Playing-Doom",
+        "summary": "AI for car driving",
+        "image": {
+            "modal": "i4.jpeg",
+            "thumb": "i5.jpeg"
+        },
+        "keywords": [
+            "Artificial Intelligence",
+            "Reinforcement learning",
+            "python"
+        ]
+    },
+    {
+        "name": "Lirical",
+        "publisher": "<PUBLISHER>",
+        "category": "<Next-js>",
+        "releaseDate": "<RELEASE_DATE>",
+        "website": "https://github.com/Gourav-raj/Song-maker",
+        "summary": "Song Creater using React and Graphql",
+        "image": {
+            "modal": "i4.jpeg",
+            "thumb": "i5.jpeg"
+        },
+        "keywords": [
+            "Reactjs",
+            "Graphql",
+            "javascript"
+        ]
+    },
+    {
+        "name": "BitsPrice",
+        "publisher": "<PUBLISHER>",
+        "category": "<Nextjs>",
+        "releaseDate": "<RELEASE_DATE>",
+        "website": "https://github.com/Gourav-raj/BitsPrices",
+        "summary": "Fetches Bits price from api and displays",
+        "image": {
+            "modal": "i4.jpeg",
+            "thumb": "i5.jpeg"
+        },
+        "keywords": [
+            "Nextjs",
+            "react",
+            "javascript"
+        ]
+    },
+    {
+        "name": "AI-Playing Doom",
+        "publisher": "<PUBLISHER>",
+        "category": "<Artificial Intelligence>",
+        "releaseDate": "<RELEASE_DATE>",
+        "website": "https://github.com/Gourav-raj/AI-Playing-Doom",
+        "summary": "AI for playing doom",
+        "image": {
+            "modal": "i4.jpeg",
+            "thumb": "i5.jpeg"
+        },
+        "keywords": [
+            "Artificial Intelligence",
+            "Reinforcement learning",
+            "python"
+        ]
+    },
+    {
+        "name": "Presonal Website",
+        "publisher": "<PUBLISHER>",
+        "category": "<Nextjs>",
+        "releaseDate": "<RELEASE_DATE>",
+        "website": "https://github.com/Gourav-raj/AI-Playing-Doom",
+        "summary": "Nextjs Webapp",
+        "image": {
+            "modal": "i4.jpeg",
+            "thumb": "i5.jpeg"
+        },
+        "keywords": [
+            "Nextjs",
+            "Javascript",
+            "Reactjs",
+            "Firebase"
+        ]
+    }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Just keep learning",
+        "user":"Gourav"
+      }
+    ]
+  }
+}
